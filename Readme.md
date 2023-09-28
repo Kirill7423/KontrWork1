@@ -7,7 +7,7 @@
 
 
 Ссылка на блок-схему алгоритма: [блок-схема](/KontolWork/Kontrolwork/Block.jpg)
-
+![блок-схема](Kontrolwork/Block.jpg)
 
 ## Решение задачи
 
